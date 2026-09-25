@@ -1,0 +1,6 @@
+{
+  "name": "Scoreboard Pro - Placar Esportivo",
+  "description": "Aplicativo de marcação de pontos e placar profissional para Vôlei, Beach Tennis e Badminton com regras oficiais, histórico e sintetizador de voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
